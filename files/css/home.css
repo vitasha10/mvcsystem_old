@@ -1,0 +1,76 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: 'Bad Script', sans-serif;
+}
+header{
+	height:100vh;
+	width:100%;
+}
+header nav{
+	position:fixed;
+	height:10vh;
+	width:100%;
+}
+#header_nav_img{
+    margin: 0 5vh 0 5vh;
+	display:block;
+	float:left;
+	height:10vh;
+	width:auto;
+}
+#header_nav_btns{
+	display:block;
+	float:right;
+	width:auto;
+	height:10vh;
+}
+#header_nav_btns_a_login{
+    font-size:3vh;
+	text-decoration:none;
+	display:block;
+	margin: 1vh 5vh 1vh 5vh;
+	padding: 0 3vh 0 3vh;	
+	line-height:8vh;	
+	text-align:center;
+	float:left;
+	color:blue;
+	background-color:white;
+	border:solid blue;
+	border-radius:1.5vh;
+	height:8vh;
+	width:8vh;
+}
+#header_nav_btns_a_registr{
+    font-size:2.5vh;
+	text-decoration:none;
+	display:block;
+	margin: 1vh 10vh 1vh 0;
+	padding: 0 3vh 0 3vh;	
+	line-height:8vh;	
+	text-align:center;	
+	float:left;
+	color:white;
+	background-color:blue;
+	border:solid blue;
+	border-radius:1.5vh;
+	height:8vh;
+	width:8vh;
+
+}
+#header_text{
+	margin:40vh 5vw 20vh 10vw;
+	display:block;
+	float:left;
+}
+#header_text span{
+	font-size:5vh;
+	font-family: 'Bad Script', cursive;
+}
+#header_img{
+	display:block;
+	float:left;
+	margin:20vh 5vw 0 0;
+	height:50vh;
+	width:50;
+}

@@ -1,0 +1,51 @@
+*{
+	padding:0;
+	margin:0;
+	font-family: 'Bad Script', sans-serif;
+}
+#registr_div{
+    display:block;
+    margin:10vh auto;
+    height:auto;
+    width:50vh;
+    background-color:grey;
+    padding:10vh 0 10vh 0;
+
+    border:solid;
+    border-radius:2vh;
+}
+#login_input{
+    display:block;
+    height:7vh;
+    text-align:center;
+    margin:0 auto;
+    border:solid;
+    border-radius:2vh;
+    font-size:3vh;
+}
+#password_input{
+    display:block;
+    height:7vh;
+    text-align:center;
+    margin:0 auto;
+    border:solid;
+    border-radius:2vh;
+    font-size:3vh;
+}
+#submit{    
+    display:block;
+    margin:0 auto;
+    border:solid;
+    border-radius:2vh;
+    height:7vh;
+    width:auto;
+    padding: 0 2vh 0 2vh;
+    font-size:3vh;
+}
+#go_back_a{
+    display:block;
+    margin:2vh auto 0;
+    text-align:center;
+    color:white;
+    text-decoration:none;
+}
